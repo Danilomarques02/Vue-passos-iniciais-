@@ -1,3 +1,5 @@
+# Instalando o Vue
+npm install -g @vue/cli
 # Execute o comando a seguir no terminal:
 vue create primeiros-passos
 # pressione Enter para selecionar a opção:
